@@ -9,7 +9,7 @@ namespace Practice
 
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
-            Console.WriteLine("I am on branch v-sedars");
+            Console.WriteLine("I am on branch v-sedars, and this is a great day to be me");
         }
     }
 }
